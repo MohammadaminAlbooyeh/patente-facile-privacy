@@ -1,7 +1,0 @@
-# requirements.txt
-# Dependencies for async_downloader
-
-aiohttp>=3.8.0
-tqdm>=4.64.0
-streamlit>=1.20.0
-pytest>=7.0.0
